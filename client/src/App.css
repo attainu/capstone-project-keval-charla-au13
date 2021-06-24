@@ -1,0 +1,44 @@
+.anticon svg {
+    margin-bottom: .4em;
+}
+
+.form-custom-css {
+    border: 1px solid rgb(182, 182, 182);
+    box-shadow: 3px 5px 8px rgb(182, 182, 182);
+    padding: 3em;
+}
+
+.not-found-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.content-heading {
+    background-color: #03256c;
+    padding: 4rem;
+    /* margin-top: 2rem; */
+}
+
+.product-headers {
+    background-color: #2541b2;
+    color: #e5d549;
+}
+
+.slider img, .card-image {
+    height: 520px;
+    object-fit: cover;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+/* .ant-menu-overflow-item.ant-menu-item.register-nav-button {
+    display: inline-block;
+} */
+
+/* .register-nav-button {
+    float: right !important;
+} */
