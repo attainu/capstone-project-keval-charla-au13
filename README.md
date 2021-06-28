@@ -31,3 +31,5 @@
 -   [MongoDB](https://www.mongodb.com/cloud/atlas)
 -   [Redux](https://redux.js.org/)
 
+## Deployment 
+Click [here](https://elegant-feynman-bcb940.netlify.app/) to view the project
